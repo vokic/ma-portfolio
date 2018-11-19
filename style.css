@@ -1,0 +1,177 @@
+body {
+	background-color: #181919;
+}
+
+body {
+	font-family: 'Raleway', sans-serif;
+}
+
+.col-lg-4 {
+	background-color: #44b1d3;
+	text-align: center;
+	padding: 0px;
+}
+
+.col-8 {
+	background-color: #181919;
+}
+
+.row{
+	height: 100vh;
+}
+
+.gala:hover { 
+	border-radius: 10px;
+	border-left: solid;
+	border-bottom: 15px solid #44b1d3;
+	border-left: 15px solid #44b1d3;
+}
+
+.gala { 
+	border-radius: 10px;
+
+}
+
+.portfolio{
+	background-color: #181919;
+	margin-top: 100px;
+	margin-left: 200px;
+	margin-right: 200px;
+	margin-bottom: 100px;
+}
+
+.row-img{
+	height: 400px;
+}
+
+.btn-more{
+	color: white;
+	background: #44b1d3;
+	border-radius: 0;
+}
+
+.about{
+	background-color: #181919;
+	margin-top: 100px;
+	margin-left: 200px;
+	margin-right: 200px;
+	margin-bottom: 100px;
+}
+
+.hr-1 {
+	border-top: 1px solid #3d3d3d;
+	margin-top: 0px;
+}
+
+.hr-2 {
+	border-top: 1px solid #3d3d3d;
+	margin-top: 100px;
+}
+
+.hr-3 {
+	border-bottom: 1px solid #3d3d3d;
+	margin-bottom: 100px;
+}
+
+.float-left {
+	margin-left: 200px;
+	margin-top: 0px;
+}
+
+.row-img-2 {
+	height: 200px;
+}
+
+.row-img-3 {
+	height: 200px;
+}
+
+.expertise{
+	background-color: #181919;
+	margin-top: 100px;
+	margin-left: 200px;
+	margin-right: 200px;
+	margin-bottom: 100px;
+}
+
+.progress-bar{
+	background-color: #181919;
+	margin-top: 100px;
+	margin-left: 200px;
+	margin-right: 200px;
+	margin-bottom: 100px;
+}
+
+.experience{
+	background-color: #181919;
+	margin-top: 100px;
+	margin-left: 200px;
+	margin-right: 200px;
+	margin-bottom: 100px;
+}
+
+.hr-4{
+	border-bottom: 1px solid #3d3d3d;
+}
+
+.footer-1{
+	padding-top: 30px;
+	padding-bottom: 20px;
+	text-align: center;
+	color: #44b1d3;
+	background-color: #3d3d3d;
+	height: auto;
+}
+
+.p-bar1{
+	width: 70%;
+
+}
+
+.p-bar2{
+	width: 70%;
+
+}
+
+.p-bar3{
+	width: 70%;
+
+}
+
+progress {
+	height: 5px;
+	margin-bottom: 30px;
+	/* Important Thing */
+	-webkit-appearance: none;
+	border: none;
+
+}
+
+/* All good till now. Now we'll style the background */
+progress::-webkit-progress-bar {
+	background: 444444;
+	border-radius: 0px;
+	padding: 0px;
+}
+
+/* Now the value part */
+progress::-webkit-progress-value {
+	border-radius: 0px;
+	background: #44b1d3;
+}
+
+.row-exp{
+	height: 50px;
+	padding-top: 10px;
+}
+
+.row-contact{
+	height: auto;
+	padding: 0px;
+}
+
+.row-contact-1 {
+	height: auto;
+	padding: 0px;
+}
+
